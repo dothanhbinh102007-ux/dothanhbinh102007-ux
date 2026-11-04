@@ -2,7 +2,7 @@
   <img src="./banner.jpg" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">hi, i'm <a href="https://github.com/dothanhbinh102007-ux">dothanhbinh</a>!</h1>
+<h1 align="center">hi hi i'm <a href="https://github.com/dothanhbinh102007-ux">dothanhbinh</a>!</h1>
 
 <p align="center">
   <a href="https://github.com/dothanhbinh102007-ux">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3 align="center">welcome to my profile :3</h3>
+<h3 align="center">welcome to my profile :3333</h3>
 
 <p align="center">i'm a game dev and backend dev～☆</p>
 

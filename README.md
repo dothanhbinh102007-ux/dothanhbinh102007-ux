@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
-  </a>
+  <img src="./banner.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">hi, i'm <a href="https://github.com/dothanhbinh102007-ux">dothanhbinh</a>!</h1>
+
 <p align="center">
   <a href="https://github.com/dothanhbinh102007-ux">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
+    <img src="./icon.png" alt="dothanhbinh" width="100">
   </a>
 </p>
+
 <h3 align="center">welcome to my profile :3</h3>
 
 <p align="center">i'm a game dev and backend dev～☆</p>

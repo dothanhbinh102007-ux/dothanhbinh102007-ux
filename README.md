@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Banner" width="80%">
+  <img src="./banner.jpg" alt="Banner" width="80%" height="280">
 </p>
 
 <h1 align="center">Hello i'm <a href="https://github.com/dothanhbinh102007-ux">dothanhbinh</a>!</h1>

@@ -15,7 +15,7 @@
 	<p align="center">I'm a backend developer and a game developer</p>
 </h2>
 	<h1><p align="left"><strong>🔥About Me</strong></p></h1>
-	<p align="left"><strong>Game Developer</strong>: using <img src="./C#.png" width="15"> to make game </p>
+	<p align="left"><strong>Game Developer</strong>: using <img src="./Csharp.png" width="15"> to make game </p>
 	<p align="left"><strong>Backend Developer:</strong>: using <img src="./Java.png" width="15"> to dev</p>
 	<p align="left"><strong>Bonus:</strong> currently learning <img src="./html.png" width="15">, <img src="./CSS.png" width="15"> and <img src="./javaScript.png" width="15"></p>
 	
